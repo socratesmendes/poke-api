@@ -33,4 +33,4 @@ O componente principal `App` renderiza o logotipo do Pokémon, um título e os c
 
 Você pode acessar a aplicação Poke-api através do seguinte link:
 
-[https://rainbow-druid-6349d0.netlify.app/](https://rainbow-druid-6349d0.netlify.app/)
+[https://pode-api-dwiii.netlify.app/](https://poke-api-dwiii.netlify.app/)
